@@ -1,0 +1,8 @@
+ N               =            2
+ nTimeSteps      =     31800000
+ deltat          =    1.00000000000000     
+ file_steps      =         3600
+ screen_steps    =        86400
+ ext. force type =            0
+ ext. mass       =   1.989100000000000E+030
+ 
